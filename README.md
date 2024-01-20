@@ -1,4 +1,4 @@
-![gif](programming.gif)
+![gif](https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif)
 
 ## **Hey, I'm David!** 👋
 
