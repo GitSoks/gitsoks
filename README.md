@@ -2,7 +2,7 @@
 
 ## **Hey, I'm David!** 👋
 
-I'm a Embedded electronics developer building with C, C++ and Python.
+I'm a embedded electronics developer building with C, C++ and Python.
 
 - 📝 Documenting building products on [**Website**](https://www.sokolowski.tech)
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/david-sokolowski-b54849207/) or mail me at **david@sokolowski.tech**
