@@ -1,4 +1,32 @@
-### Hi there 👋
+![gif](programming.gif)
+
+## **Hey, I'm David!** 👋
+
+I'm a FrontEnd developer building with React and TypeScript.
+
+- 📝 Documenting building products on [**Website**](https://www.sokolowski.tech)
+- 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/david-sokolowski-b54849207/) or mail me at **david@sokolowski.tech**
+
+## Find me around the web 🌍
+
+- [**Website**](https://www.sokolowski.tech)
+- [**LinkedIn**](https://www.linkedin.com/in/david-sokolowski-b54849207/)
+
+********
+
+  
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gitsoks&show_icons=true&theme=gotham" alt="David's Stats" /> 
+
+</details>
+
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{gitsoks}/count.svg) 
+
+
 
 <!--
 **GitSoks/gitsoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
