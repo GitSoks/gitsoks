@@ -1,6 +1,6 @@
 ![gif](https://media1.tenor.com/m/fKemXSbd-pAAAAAC/microchip.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFF&size=24&width=500&lines=Hey,+I'm+David!+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFF&size=32&width=500&lines=Hey,+I'm+David!+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 I'm a embedded electronics developer building with C, C++ and Python.
